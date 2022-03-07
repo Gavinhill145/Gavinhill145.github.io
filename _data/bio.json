@@ -3,7 +3,7 @@
     "name": "Gavin Hill",
     "label": "Student",
     "picture": "",
-    "email": "Gavinhill145@gmaiL.COM",
+    "email": "Gavinhill145@gmaiL.com",
     "phone": "859-618-7125",
     "website": "https://Gavinhill145.github.io",
     "summary": "I am studying for an Associates in Computer Science in the Department of Information and Computer Sciences at Sulivan University. I expect to graduate in 2023.",
@@ -38,16 +38,6 @@
       "keywords": [
         "Arduino",
         "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
       ]
     }
   ],
